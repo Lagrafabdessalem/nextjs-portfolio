@@ -3,10 +3,10 @@ import { FaAward, FaUser } from 'react-icons/fa'
 import {VscFolderLibrary} from 'react-icons/vsc'
 import { AiFillGithub, AiFillHtml5 } from 'react-icons/ai'
 import {DiCss3} from 'react-icons/di'
-import {TbBrandJavascript} from 'react-icons/Tb'
+import {TbBrandJavascript} from 'react-icons/tb'
 import {GrReactjs} from 'react-icons/gr'
-import {SiTailwindcss} from 'react-icons/Si'
-import {SiFirebase} from 'react-icons/Si'
+import {SiTailwindcss} from 'react-icons/si'
+import {SiFirebase} from 'react-icons/si'
 
 function About() {
   return (
